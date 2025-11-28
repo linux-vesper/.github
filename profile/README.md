@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-## Creamy Installer
-Creamy installation module
+## Vespert Installation
+Vesper installation module
 
 
 ### reset system
@@ -9,7 +9,7 @@ Creamy installation module
 pacman -Syy git --noconfirm
 ```
 ```
-git clone https://github.com/linux-creamy/installer.git  /install
+git clone https://github.com/linux-vesper/installer.git  /install
 ```
 ```
 /bin/bash /install/vesper --reset
@@ -21,7 +21,7 @@ git clone https://github.com/linux-creamy/installer.git  /install
 pacman -Syy git --noconfirm
 ```
 ```
-git clone https://github.com/linux-creamy/installer.git  /install
+git clone https://github.com/linux-vesper/installer.git  /install
 ```
 ```
 /bin/bash /install/vesper --install
