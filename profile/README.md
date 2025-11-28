@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Vesper Installation
+## Installation
 Vesper installation module
 
 
